@@ -1,1 +1,1 @@
-Exemple data
+Exemple data fo Varaps https://pypi.org/project/VaRaPS/
